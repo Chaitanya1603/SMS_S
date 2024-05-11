@@ -1,5 +1,5 @@
 ## Check out my application on SMS Spam Detection
-https://sms-spam-detection-pfr0xnyizaf.streamlit.app/
+https://c4tw3ajqkcats5rpymberu.streamlit.app/
 
 # SMS Spam Detection
 
